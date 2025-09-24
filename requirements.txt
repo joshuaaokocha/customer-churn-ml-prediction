@@ -1,0 +1,14 @@
+# Core libraries
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+tensorflow
+
+# Explainability
+shap
+
+# Visualization
+matplotlib
+seaborn
